@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "user": "user1",
+            "pass": "user_1_123",
+            "descrip": "Hi, I'm user number 1"
+        },
+        {
+            "id": 2,
+            "user": "user2",
+            "pass": "user_2_123",
+            "descrip": "Hi, I'm user number 2"
+        },
+        {
+            "id": 3,
+            "user": "user3",
+            "pass": "user_3_123",
+            "descrip": "Hi, I'm user number 3"
+        },
+        {
+            "id": 4,
+            "user": "user4",
+            "pass": "user_4_123",
+            "descrip": "Hi, I'm user number 4"
+        }
+    ]
+}
